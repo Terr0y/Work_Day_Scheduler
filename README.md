@@ -35,7 +35,7 @@ FontAwesome
 
 ## Installation
 
-No installation is required
+No installation required
 
 ## License
 
