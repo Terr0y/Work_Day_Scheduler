@@ -8,7 +8,7 @@ $(document).ready(function () {
         const businessHoursEnd = 17; // Ending at 5 PM
 
         for (let hour = businessHoursStart; hour <= businessHoursEnd; hour++) {
-            // Create a row for each time block
+            // A row for each time block
             let timeBlock = $('<div>').addClass('row time-block');
             let hourLabel = $('<div>').addClass('hour col-md-1');
             let eventText = $('<textarea>').addClass('description col-md-10');
