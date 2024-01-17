@@ -1,5 +1,10 @@
 # Work Day Scheduler
 
+## Deployed URL
+
+https://terr0y.github.io/Work_Day_Scheduler/
+
+
 ## Description
 
 The Work Day Scheduler is a simple, clean, and easy-to-use calendar application designed to help manage a normal workday. With a clear interface, the app displays the current day at the top and allows users to scroll through standard business hours. Users can easily add, save, and view events for each hour of the workday.
@@ -36,6 +41,10 @@ FontAwesome
 ## Installation
 
 No installation required
+
+## Application Screenshot
+
+![Application screenshot](images/05-third-party-apis-homework-demo.gif)
 
 ## License
 
